@@ -1,2 +1,1 @@
-# repaso
-Este repo es de practica
+prueba de como clonar un repositorio desde github al escritorio
